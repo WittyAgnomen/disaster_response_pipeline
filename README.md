@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Disaster Response Pipeline Project
 
 ### Instructions:
@@ -15,10 +13,9 @@
 
 3. Go to http://0.0.0.0:3001/
 =======
-# disaster_response_pipeline
-TODO
->>>>>>> 84431db09730b188896c405c2d25ab3b30763848
-=======
-# disaster_response_pipeline
-TODO
->>>>>>> 84431db09730b188896c405c2d25ab3b30763848
+
+## Example
+
+![example](1.png)
+
+![example](2.png)
